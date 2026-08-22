@@ -37,18 +37,6 @@ public class Pradeep {
 
 ## 🚀 Featured Projects
 
-### 🌐 Distributed Network Platform — Social Microservices Backend
-> *Java 21 • Spring Boot • Spring Cloud • Apache Kafka • Neo4j • PostgreSQL • Kubernetes • Docker*
-
-A production-grade microservices social network with enterprise-level architecture.
-
-- 🔀 **Spring Cloud Gateway** for edge routing + **Netflix Eureka** for dynamic service discovery across 5+ independent microservices
-- 🕸️ **Neo4j** graph database powering 1st/2nd/3rd degree social relationship queries with Cypher
-- ⚡ **Apache Kafka** event-driven architecture decoupling user updates, connection requests, and real-time notifications
-- ☸️ **Kubernetes** orchestration with **Google Jib** containerization, Ingress controllers, and Google Cloud Storage for media
-
----
-
 ### 🎯 [ProvenPick](https://provenpick.xyz) — Agentic AI Product Review Platform
 > *Python • LangGraph • Gemini AI • FastAPI • PostgreSQL • Redis • Apache Kafka • React • AWS EC2*
 
@@ -59,6 +47,18 @@ An autonomous AI pipeline that discovers YouTube product reviews, extracts trans
 - ⚡ **Apache Kafka** pub/sub for real-time email alerts when reviews go live for subscribed categories
 - 🔄 **Redis** queue decouples channel scanning from AI generation; hallucination prevention via hard aborts on transcript failures
 - 👤 **Human-in-the-loop** staging approval dashboard before any article reaches production
+
+---
+
+### 🌐 Distributed Network Platform — Social Microservices Backend
+> *Java 21 • Spring Boot • Spring Cloud • Apache Kafka • Neo4j • PostgreSQL • Kubernetes • Docker*
+
+A production-grade microservices social network with enterprise-level architecture.
+
+- 🔀 **Spring Cloud Gateway** for edge routing + **Netflix Eureka** for dynamic service discovery across 5+ independent microservices
+- 🕸️ **Neo4j** graph database powering 1st/2nd/3rd degree social relationship queries with Cypher
+- ⚡ **Apache Kafka** event-driven architecture decoupling user updates, connection requests, and real-time notifications
+- ☸️ **Kubernetes** orchestration with **Google Jib** containerization, Ingress controllers, and Google Cloud Storage for media
 
 ---
 
@@ -132,9 +132,15 @@ High-concurrency food rescue marketplace with a fully async order pipeline.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradeep102005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=6366f1&text_color=c7d2fe"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradeep102005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=6366f1&text_color=c7d2fe&cache_seconds=3600"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep102005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c7d2fe&hide=jupyter%20notebook&cache_seconds=3600"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep102005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c7d2fe"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep102005&bg_color=0d1117&color=22d3ee&line=6366f1&point=c7d2fe&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -143,6 +149,7 @@ High-concurrency food rescue marketplace with a fully async order pipeline.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pradeep102005&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=6366f1&currStreakLabel=c7d2fe)](https://git.io/streak-stats)
 
 </div>
+
 
 ---
 
