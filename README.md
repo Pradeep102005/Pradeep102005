@@ -76,40 +76,13 @@ Analytical software professional with experience building distributed backend sy
 }
 ```
 
-<div align="center">
+## 🔨 Projects
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Distributed Systems & Cloud**  
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-008ECF?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**AI Technologies**  
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![VectorRAG](https://img.shields.io/badge/VectorRAG-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
+| | Project | What |
+|---|---|---|
+| 🎯 | **[Proven Pick](https://provenpick.xyz)** | Agentic AI product-review platform · LangGraph · Affiliate monetization |
+| 🌐 | **[Distributed Network Platform](https://github.com/Pradeep102005)** | Java 21 microservices backend · Spring Cloud · Neo4j social graph |
+| 🍽️ | **[Rescu-Eats](https://github.com/Pradeep102005)** | Asynchronous food rescue marketplace pipeline · Kafka · Redis |
 
 ---
 
@@ -138,6 +111,19 @@ Analytical software professional with experience building distributed backend sy
 ---
 
 <div align="center">
+
+<br>
+
+> *“To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.”*  
+> — **Fred Brooks**
+
+<br>
+
+### 💼 Employer?
+
+[Have a look at my Resume](https://drive.google.com/file/d/1a1S5vF2zt90KLz1N1WAgOM6BXI3sDUXA/view?usp=sharing)
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
