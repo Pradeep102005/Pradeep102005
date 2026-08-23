@@ -15,11 +15,18 @@
 
 <img src="dooms.gif" alt="Doomsday GIF" width="800"/>
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-palakodeti-950b322bb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradeep102005)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devxpradeep@gmail.com)
+> *“To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.”*  
+> — **Fred Brooks**
+
+<br>
+
+### 💼 Employer?
+
+[Have a look at my Resume](https://drive.google.com/file/d/1a1S5vF2zt90KLz1N1WAgOM6BXI3sDUXA/view?usp=sharing)
+
+<br>
 
 </div>
 
@@ -105,28 +112,9 @@ Analytical software professional with experience building distributed backend sy
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pradeep102005&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=6366f1&currStreakLabel=c7d2fe)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <div align="center">
-
-<br>
-
-> *“To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.”*  
-> — **Fred Brooks**
-
-<br>
-
-### 💼 Employer?
-
-[Have a look at my Resume](https://drive.google.com/file/d/1a1S5vF2zt90KLz1N1WAgOM6BXI3sDUXA/view?usp=sharing)
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
