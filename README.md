@@ -32,15 +32,12 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ Professional Highlights
 
-🔭 **I’m currently working on:** AI/ML Pipelines and Microservices backend.  
-🌱 **My Skills:** Java, Python, Spring Boot, Microservices, Agentic AI, Distributed Systems.  
-👯 **I’m looking to collaborate on:** Open Source Projects, AI Agents, and scalable Backend systems.  
-🤝 **I’m looking for help to:** Enhance my skills in Advanced Machine Learning.  
-👨‍💻 **All of my projects are available at:** [My GitHub Portfolio](https://github.com/Pradeep102005)  
-💬 **Ask me about anything,** I'll either know it or learn it.  
-📫 **How to reach me:** [devxpradeep@gmail.com](mailto:devxpradeep@gmail.com)  
+🔭 **Engineering Focus:** Architecting resilient, high-concurrency microservices and distributed backend systems.  
+🧠 **AI Integration:** Designing autonomous, agentic AI pipelines (LangGraph, LLMs) that deliver measurable business impact.  
+⚙️ **System Architecture:** Building event-driven architectures leveraging Apache Kafka, Redis, and Graph databases.  
+🚀 **Mission:** Writing clean, scalable code and translating complex requirements into production-ready software.  
 
 ### 🎯 Career Objective:
 Analytical software professional with experience building distributed backend systems and transforming complex requirements into scalable solutions using Java, Spring Boot, and Python. Skilled in architectural design, problem-solving, and developing agentic AI pipelines with LangGraph. Experienced in cross-functional collaboration and developing enterprise-grade microservices. Currently expanding expertise in AI-driven workflows and scalable cloud infrastructure to deliver high-impact software products.
