@@ -13,7 +13,7 @@
 
 <br/>
 
-<video src="dooms.mp4" autoplay loop muted playsinline width="800"></video>
+<img src="dooms.gif" alt="Doomsday GIF" width="800"/>
 
 <br/><br/>
 
