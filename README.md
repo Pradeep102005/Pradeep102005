@@ -22,7 +22,7 @@
 
 <br>
 
-### 💼 Employer?
+### 💼 Recruiter?
 
 [Have a look at my Resume](https://drive.google.com/file/d/1a1S5vF2zt90KLz1N1WAgOM6BXI3sDUXA/view?usp=sharing)
 
