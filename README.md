@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="clarity.gif" alt="Clarity Animation" width="800"/>
+<img src="clarity.gif" alt="Clarity Animation" width="100%"/>
 
 <br/>
 
