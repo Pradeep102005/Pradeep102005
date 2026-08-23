@@ -98,7 +98,11 @@ Analytical software professional with experience building distributed backend sy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep102005&bg_color=0d1117&color=22d3ee&line=6366f1&point=c7d2fe&area=true&hide_border=true" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradeep102005/Pradeep102005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradeep102005/Pradeep102005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pradeep102005/Pradeep102005/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
