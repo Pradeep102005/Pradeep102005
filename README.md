@@ -13,8 +13,7 @@
 
 <br/>
 
-<!-- Replace the URL below if you want to use a local GIF -->
-<img src="https://media.giphy.com/media/3oxHQpJKupQXsmU1JS/giphy.gif" alt="Marvel Secret Wars GIF" width="450"/>
+<video src="dooms.mp4" autoplay loop muted playsinline width="800"></video>
 
 <br/><br/>
 
