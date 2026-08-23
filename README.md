@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="dooms.gif" alt="Doomsday GIF" width="800"/>
+<img src="clarity.gif" alt="Clarity Animation" width="800"/>
 
 <br/>
 
