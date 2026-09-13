@@ -46,46 +46,75 @@ Analytical software professional with experience building distributed backend sy
 
 ## 🛠️ Technical Skills
 
-```python
-/pradeep $ cat skills.json
-{
-  "type": "Hard Skills",
-  "categories": [
-    {
-      "name": "Languages",
-      "items": ["Java", "JavaScript", "Python"]
-    },
-    {
-      "name": "Backend",
-      "items": ["Spring Boot", "Node.js", "Express.js", "FastAPI", "REST APIs"]
-    },
-    {
-      "name": "Databases",
-      "items": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Neo4j"]
-    },
-    {
-      "name": "Distributed Systems",
-      "items": ["Apache Kafka", "Microservices"]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "items": ["Docker", "Kubernetes", "AWS (EC2, S3)"]
-    },
-    {
-      "name": "AI Technologies",
-      "items": ["LangGraph", "LangChain", "VectorRAG", "GraphRAG"]
-    }
-  ]
-}
+```diff
+ /pradeep $ cat skills.yaml
+
++ Languages        : Java · JavaScript · Python
++ Backend          : Spring Boot · Node.js · Express.js · FastAPI · REST APIs
++ Databases        : MySQL · PostgreSQL · MongoDB · Redis · Neo4j
++ Distributed Sys  : Apache Kafka · Microservices
++ Cloud & DevOps   : Docker · Kubernetes · AWS (EC2, S3)
++ AI Technologies  : LangGraph · LangChain · VectorRAG · GraphRAG
 ```
 
-## 🔨 Projects
+## 🚀 Featured Projects
 
-| | Project | What |
-|---|---|---|
-| 🎯 | **[Proven Pick](https://provenpick.xyz)** | Agentic AI product-review platform · LangGraph · Affiliate monetization |
-| 🌐 | **[Distributed Network Platform](https://github.com/Pradeep102005/Distributed-Networking-Platform)** | Java 21 microservices backend · Spring Cloud · Neo4j social graph |
-| 🍽️ | **[Rescu-Eats](https://github.com/Pradeep102005/RescuEats)** | Asynchronous food rescue marketplace pipeline · Kafka · Redis |
+<div align="center">
+
+[![provenpick](https://img.shields.io/badge/─────────────────────────────────────────────────────-0d1117?style=for-the-badge)](https://github.com/Pradeep102005)
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://provenpick.xyz">Proven Pick</a></h3>
+      <a href="https://provenpick.xyz">
+        <img src="https://img.shields.io/badge/LIVE-provenpick.xyz-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>Agentic AI product-review platform with autonomous LangGraph pipelines, affiliate monetization, and RAG-powered recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/Pradeep102005/Distributed-Networking-Platform">Distributed Network Platform</a></h3>
+      <a href="https://github.com/Pradeep102005/Distributed-Networking-Platform">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>Java 21 microservices social network — Spring Cloud gateway, Neo4j graph queries, distributed session management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/Pradeep102005/RescuEats">RescuEats</a></h3>
+      <a href="https://github.com/Pradeep102005/RescuEats">
+        <img src="https://img.shields.io/badge/GitHub-View_Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <p>Hyper-local surplus-food marketplace — ACID reservation transactions, Razorpay webhooks, Redis geo-caching (85% cache-hit rate), direct-to-S3 uploads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
