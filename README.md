@@ -84,8 +84,8 @@ Analytical software professional with experience building distributed backend sy
 | | Project | What |
 |---|---|---|
 | 🎯 | **[Proven Pick](https://provenpick.xyz)** | Agentic AI product-review platform · LangGraph · Affiliate monetization |
-| 🌐 | **[Distributed Network Platform](https://github.com/Pradeep102005)** | Java 21 microservices backend · Spring Cloud · Neo4j social graph |
-| 🍽️ | **[Rescu-Eats](https://github.com/Pradeep102005)** | Asynchronous food rescue marketplace pipeline · Kafka · Redis |
+| 🌐 | **[Distributed Network Platform](https://github.com/Pradeep102005/Distributed-Networking-Platform)** | Java 21 microservices backend · Spring Cloud · Neo4j social graph |
+| 🍽️ | **[Rescu-Eats](https://github.com/Pradeep102005/RescuEats)** | Asynchronous food rescue marketplace pipeline · Kafka · Redis |
 
 ---
 
